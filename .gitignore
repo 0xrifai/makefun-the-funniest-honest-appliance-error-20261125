@@ -1,0 +1,7 @@
+node_modules/
+.output/
+output/
+
+# Local run artefacts and editor state — never part of the entry.
+*.log
+.DS_Store
